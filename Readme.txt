@@ -12,3 +12,4 @@ PHP软件包
 |——utf8_chinese.class.php	UTF8字符集内的繁简转换
 |——validate_form.class.php	常用表单验证类
 |——Zip.class.php	压缩操作类
+|——ToChinaseNum.php	阿拉伯数字转换为中文数字
